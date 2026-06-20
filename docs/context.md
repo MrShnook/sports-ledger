@@ -79,6 +79,29 @@ Matt's son William is on MLS Next in Phoenix. We ARE the customer. First beta te
 **Scout verdict:** 🟢 BUILD
 **Scout brief:** `~/.openclaw/workspace/ventures/sports-ledger-scout-brief.md`
 
+## Research Progress (Updated 2026-03-24)
+
+### ✅ Completed
+- **Competitive landscape** — No dedicated competitor exists. TeamSnap/SportsEngine are team-side only. YNAB/Mint lack sport-specificity. Empty niche confirmed.
+- **Reddit + community validation** — Strong signal across 12+ subreddits. Parents explicitly asking for purpose-built expense tracker. Multiple posts describe exact feature set we're building. Sticker shock, guilt, and quitting are common emotional threads. See `docs/research/reddit-validation.md`.
+- **Market sizing** — TAM: 20M+ sports households ($1.2B addressable). SAM: 2.3M competitive families ($138M). Year 1 target: 250-1,000 paid users, $15K-$60K ARR. See `docs/research/market-sizing.md` and `docs/financial-model.md`.
+- **Brand naming** — "SportsLedger" recommended (sportsledger.com available). Three-name shortlist for Matt. Competitor signal: multiple related domains registered late 2025. See `docs/research/brand-naming-research.md`.
+
+### ⏳ Remaining Research Tasks
+- MATT: Pick brand name from shortlist (p0)
+- Product marketing context doc (p1)
+- Design brief (p1, partially blocked on name)
+- SEO keyword research (p2)
+
+### Key Insights
+- **Timing is ideal:** WSJ front-page coverage of $40B youth sports spending (March 2026). Public conversation peaking.
+- **Competitor signal:** playbudget.com registered 2026-03-21 (3 days ago). youthledger.com, sportsbankroll.com registered late 2025. Others may be exploring this space.
+- **Aspen Institute 2025:** Costs up 46% since 2019 (2x inflation). Basketball +105%, Soccer +69%, Baseball +68%.
+- **Unit economics are strong:** 80%+ margins at $5/mo, break-even at ~10 paying users.
+
+## Design
+Design brief completed: see `docs/design/design-brief.md`
+
 ## Domain Expertise
 
 Matt's son William plays on MLS Next in Phoenix. The family lives the youth sports expense problem daily. This is authentic.
